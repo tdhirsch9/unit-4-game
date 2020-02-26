@@ -1,4 +1,4 @@
-var computerNum = Math.floor(Math.random() * 100) + 30;
+var computerNum = Math.floor(Math.random() * 120) + 19;
 var buttonNum1 = Math.floor(Math.random() * 12) + 1;
 var buttonNum2 = Math.floor(Math.random() * 12) + 1;
 var buttonNum3 = Math.floor(Math.random() * 12) + 1;
@@ -48,9 +48,6 @@ function total(){
     $("#losses").html(losses++);
     restartGame();
   }
-
-
-
 
 
 

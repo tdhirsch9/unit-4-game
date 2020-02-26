@@ -1,0 +1,65 @@
+body {
+    background-image: url("coolbackground.png");
+   }
+
+
+.title{
+    background-color: coral;
+    color: white;
+    max-width: 320px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+}
+
+.instructions{
+    background-color: wheat;
+    max-width: 550px;
+    padding-bottom: 50px;
+    margin: 10px;
+    color: rgb(3, 141, 65);
+}
+
+
+.rnumber{
+    background-color: limegreen;
+    padding-right: 150px;
+    padding-bottom: 33px;
+    float: left;
+    margin: 5px;
+    font-size: 25px;
+}
+
+.outcome{
+    background-color: turquoise;
+    margin-left:175px ;
+    max-width: 85px;
+    padding-bottom: 1px;
+    margin-top: 15px;
+}
+
+.buttons{
+    position: absolute;
+    margin-top: 5px;
+}
+
+.total-score{
+    background-color: teal;
+    padding-right: 71px;
+    padding-bottom: 5px;
+    position: absolute;
+    margin: 5px;
+    margin-top: 150px;
+    color: linen;
+}
+
+.score{
+    background-color: teal;
+    padding-right: 190px;
+    padding-bottom: 40px;
+    position: absolute;
+    margin: 5px;
+    margin-top: 200px;
+    font-size: 25px;
+    color: linen;
+}

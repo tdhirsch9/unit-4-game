@@ -1,5 +1,5 @@
 body {
-    background-image: url("coolbackground.png");
+    background-image:("assets\images\coolbackground.png");
    }
 
 
@@ -24,7 +24,7 @@ body {
 .rnumber{
     background-color: limegreen;
     padding-right: 150px;
-    padding-bottom: 33px;
+    padding-bottom: 44px;
     float: left;
     margin: 5px;
     font-size: 25px;
@@ -32,7 +32,7 @@ body {
 
 .outcome{
     background-color: turquoise;
-    margin-left:175px ;
+    margin-left:200px ;
     max-width: 85px;
     padding-bottom: 1px;
     margin-top: 15px;
